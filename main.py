@@ -35,4 +35,4 @@ bot.load_extension('cogs.time')
 bot.load_extension('cogs.weather')
 bot.load_extension('cogs.chat')
 
-bot.run('MTEyNzc4MjYxNDA0NTA0ODk0Mg.GxWaNI.l-Ei2iKHef2FLSFutQ8OUV1HOd2jaVLl0F-2NA')
+bot.run('<INSERT.DISCORD.BOT.TOKEN.HERE>')
