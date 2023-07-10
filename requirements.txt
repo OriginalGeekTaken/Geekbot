@@ -1,0 +1,5 @@
+discord.py
+praw
+openai
+pytz
+requests
