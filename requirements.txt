@@ -1,0 +1,9 @@
+disnake
+aiohttp
+Pillow
+PyNaCl
+psutil
+requests
+openai
+gspread
+beautifulsoup4

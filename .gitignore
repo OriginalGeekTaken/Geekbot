@@ -1,0 +1,7 @@
+.env
+*.pyc
+
+.vs/
+
+config.py
+configlvl.py
